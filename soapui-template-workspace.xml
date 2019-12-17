@@ -2,4 +2,5 @@
 <con:soapui-workspace name="soapui-template" soapui-version="5.4.0" xmlns:con="http://eviware.com/soapui/config">
   <con:settings/>
   <con:project name="compare-api-response">C:/Users/yl13/Desktop/soapui-template/project/compare-api-response-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
 </con:soapui-workspace>
